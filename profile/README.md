@@ -10,7 +10,7 @@ Our Primar Websites offer:
 - Meal kits for easy food preparations
 - Recommended meals from certified dieticians
 - Swift delivery within 24hrs
-- Customizable settings to suit your specific needs and preferences
+- Quick custommer service assistance for any issue
 
 ## Contributing
 
