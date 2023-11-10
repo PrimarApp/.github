@@ -1,6 +1,6 @@
 # Primar 
 
-Welcome to the official GitHub repository for Primar, a grocery and meal-kit delivery company that saves you time from going to the market, delivers affordable farm fresh products and provides a variety of meals for you to cook.
+Welcome to the official GitHub repository for Primar, a grocery delivery technology company that saves you time from going to the market, delivers affordable farm fresh products and provides a variety of meals for you to cook.
 
 ## Features
 
